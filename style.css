@@ -248,3 +248,7 @@ a{
     margin: 0;
     padding-top: 3em;
   }
+
+  .list1{
+    list-style: none;
+  }
